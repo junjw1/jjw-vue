@@ -1,6 +1,6 @@
 'use strict'
 
-const VueLoaderPlugin = require('vue-loader')
+const {VueLoaderPlugin} = require('vue-loader')
 
 module.exports = {
   mode: 'development',
