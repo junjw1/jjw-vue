@@ -1,11 +1,11 @@
 <template>
-    <div>
-        <h1>Hello Vue !!</h1>
-    </div>
+  <div>
+    <h1>Hello Vue !!</h1>
+  </div>
 </template>
 
-<style>
+<style lang="scss" scoped>
 h1 {
-  color: red;
+  color: blueviolet;
 }
 </style>
